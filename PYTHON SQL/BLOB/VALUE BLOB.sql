@@ -1,1 +1,0 @@
-INSERT INTO files (filename, content) VALUES ('charles-leclerc-ferrari-f1-75-jpg', LOAD_FILE('C:\MYSQL\BLOB\charles-leclerc-ferrari-f1-75-.jpg'));
